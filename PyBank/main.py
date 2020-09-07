@@ -3,7 +3,7 @@ import os, csv
 
 
 # Declare file location through pathlib
-input_file = os.path.join("python-challenge", "PyBank", "budget_data.csv")
+input_file = os.path.join("PyBank", "budget_data.csv")
 
 # Create empty lists to iterate through specific rows for the following variables
 total_months = []
@@ -52,7 +52,7 @@ print(f"Greatest Increase in Profits: {total_months[max_increase_month]} (${(str
 print(f"Greatest Decrease in Profits: {total_months[max_decrease_month]} (${(str(max_decrease_value))})")
 
 # Output files
-output_file = os.path.join("python-challenge", "PyBank", "Financial_Analysis_Summary.txt")
+output_file = os.path.join("PyBank", "Financial_Analysis_Summary.txt")
 
 with open(output_file,"w") as file:
     
