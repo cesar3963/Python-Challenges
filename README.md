@@ -61,3 +61,9 @@ Assess the passage for each of the following:
 * Approximate letter count (per word)
 
 * Average sentence length (in words)
+
+## Solution"s Screen Shots 
+
+![PyBank](Screenshots/pybank.PNG)
+
+![PyPoll](Screenshots/pypoll.PNG)
