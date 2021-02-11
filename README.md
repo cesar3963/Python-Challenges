@@ -62,8 +62,8 @@ Assess the passage for each of the following:
 
 * Average sentence length (in words)
 
-## Solution"s Screen Shots 
-
+## Solution's Screen Shots 
+* PyBank Solution
 ![PyBank](Screenshots/pybank.PNG)
-
+* PyPoll Solution
 ![PyPoll](Screenshots/pypoll.PNG)
